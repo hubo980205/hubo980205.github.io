@@ -84,10 +84,10 @@ disqus: hubo-blog #shortname
  # proxy:
 
 # 输入Google Analytics web tracking code
-google_analytics:
+#google_analytics:
 
-utteranc:
-  repo: # Your github repo path, also see: https://utteranc.es
+#utteranc:
+#  repo: # Your github repo path, also see: https://utteranc.es
 
 #
 # !! 以下所有设置都不需要更改 !!
