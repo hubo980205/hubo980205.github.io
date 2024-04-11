@@ -76,12 +76,12 @@ footer-text: Copyright (c) 2019 来自中世界
 disqus: hubo-blog #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
-  proxy:
+#gitalk:
+#  clientID: 
+ # clientSecret: 
+ # repo: 
+ # owner: 
+ # proxy:
 
 # 输入Google Analytics web tracking code
 google_analytics:
