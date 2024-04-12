@@ -81,7 +81,7 @@ footer-text: Copyright (c) 2019 来自中世界
 gitalk:
   clientID: d030157579d005ce729f
   clientSecret: 21e3ea8ed246223c8675e4dcf3460203d9781f4d
-  repo: 
+  repo: https://github.com/hubo980205/Gitalk_repository
   owner: hubo980205
   proxy:
 
