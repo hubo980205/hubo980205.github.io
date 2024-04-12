@@ -73,15 +73,15 @@ footer-text: Copyright (c) 2019 来自中世界
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: hubo-blog #shortname
+# disqus: hubo-blog #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-#gitalk:
-#  clientID: 
- # clientSecret: 
- # repo: 
- # owner: 
- # proxy:
+gitalk:
+  clientID: d030157579d005ce729f
+  clientSecret: 21e3ea8ed246223c8675e4dcf3460203d9781f4d
+  repo: 
+  owner: 
+  proxy:
 
 # 输入Google Analytics web tracking code
 #google_analytics:
